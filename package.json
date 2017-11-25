@@ -1,0 +1,26 @@
+{
+  "name": "four-arithmetic-operations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha",
+    "lint": "./node_modules/eslint/bin/eslint.js ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inaaaaaa/node-four-arithmetic-operations.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inaaaaaa/node-four-arithmetic-operations/issues"
+  },
+  "homepage": "https://github.com/inaaaaaa/node-four-arithmetic-operations#readme",
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "eslint-config-google": "^0.9.1",
+    "mocha": "^4.0.1",
+    "power-assert": "^1.4.4"
+  }
+}
